@@ -1,0 +1,12 @@
+h1. ACA Control.net
+
+Started in 2008 and originally coded in .net, as we wanted to be able to support many languages while still being somewhat cross platform thanks to mono.
+
+h2. What changed
+
+Ruby was always going to be my module writing language of choice however with the rise of HTML5, tablets and websocket support across platforms - a web based interface was seen as the future. Control from any device, no installation needed.
+Rails seemed the appropriate platform for interface serving and Mountable engines made this all too easy. Eventmachine reduced the effort required again.
+
+
+This project was the starting point of our commercial control platform: https://github.com/stakach/em_control
+
